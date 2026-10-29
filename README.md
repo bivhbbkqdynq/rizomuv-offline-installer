@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-UV+Unwrapping-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-UV+Mapping-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 RizomUV Free Installer** — RizomUV is a professional UV unwrapping and packing software used in game development and VFX production. Works without internet access, no account required. Full offline installation.
+**💻 RizomUV Free Installer** — RizomUV is a professional UV mapping application for 3D artists used in games, film, and product visualization. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About RizomUV
 
-RizomUV is a professional UV unwrapping and packing software used in game development and VFX production. It offers automated UV island generation, advanced packing algorithms, and seamless integration with major 3D applications through live links.
+RizomUV is a professional UV mapping application for 3D artists used in games, film, and product visualization. Automate UV unwrapping, pack UV islands efficiently, and achieve optimal texture space usage. RizomUV integrates with Maya, 3ds Max, Blender, Cinema 4D, and other 3D applications via a live link, dramatically speeding up the UV workflow for complex 3D models.
 
 ---
 
 ## ❌ Problem: RizomUV is hard to access
 
-- **Paid License** — Professional pricing targeting studios and freelance 3D artists
-- **Standalone Workflow** — Requires round-tripping between RizomUV and your main 3D application
-- **Niche Audience** — Highly specialized for 3D texture UV workflows
-- **Learning Curve** — UV unwrapping concepts require 3D production background to understand
+- **Commercial License** — Professional pricing that can be a barrier for independent artists
+- **Specialized Tool** — Only useful for 3D artists who need UV mapping
+- **Learning Curve** — UV mapping concepts require dedicated study to master
+- **Integration Setup** — Live link setup with 3D software requires configuration
 
 ---
 
@@ -121,7 +121,7 @@ RizomUV is a professional UV unwrapping and packing software used in game develo
 
 ---
 
-**RizomUV Free Installer** — RizomUV is a professional UV unwrapping and packing software used in game development and VFX production. Install without internet connection today!
+**RizomUV Free Installer** — RizomUV is a professional UV mapping application for 3D artists used in games, film, and product visualization. Install without internet connection today!
 
 <div align="center">
 
